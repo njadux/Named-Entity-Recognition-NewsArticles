@@ -1,0 +1,13 @@
+# Core dependencies
+pandas
+tqdm
+scikit-learn
+seqeval
+
+# spaCy and transformer support
+spacy>=3.0
+spacy[transformers]
+transformers
+
+# Optional visualization (for displacy in notebooks)
+jupyter
